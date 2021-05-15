@@ -1,0 +1,87 @@
+h1{
+    text-align:center;
+}
+img#jogo{
+    position: absolute;
+}
+img#espaco1{
+    position: absolute;
+    width: 77px;
+    height: 71px;
+    margin-left: 70px;
+    margin-top: 10px;
+}
+img#espaco2{
+    position: absolute;
+    width: 77px;
+    height: 71px;
+    margin-left: 170px;
+    margin-top: 10px;
+}
+img#espaco3{
+    position: absolute;
+    width: 77px;
+    height: 71px;
+    margin-left: 280px;
+    margin-top: 10px;
+}
+img#espaco4{
+    position: absolute;
+    width: 77px;
+    height: 71px;
+    margin-left: 70px;
+    margin-top:100px;
+}
+img#espaco5{
+    position: absolute;
+    width: 77px;
+    height: 71px;
+    margin-left:170px;
+    margin-top:100px;
+}
+img#espaco6{
+    position: absolute;
+    width: 77px;
+    height: 71px;
+    margin-left: 280px;
+    margin-top: 100px;
+}
+img#espaco7{
+    position: absolute;
+    width: 77px;
+    height: 71px;
+    margin-top:185px;
+    margin-left:70px;
+}
+img#espaco8{
+    position: absolute;
+    width: 77px;
+    height: 71px;
+    margin-left:170px;
+    margin-top:185px;
+}
+img#espaco9{
+    position: absolute;
+    width: 77px;
+    height: 71px;
+    margin-left:280px;
+    margin-top:185px;
+}
+div#teste{
+    margin-top: 150px;
+    margin-left: 500px;
+}
+a{
+    margin-top: 200px;
+    margin-left: 500px;
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    text-decoration: underline;
+    color:red;
+}
+div#variaveis{
+    margin-left: 500px;
+    margin-top: 250px;
+}
